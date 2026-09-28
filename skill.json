@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-lexer-regex-tokenizer-engine-skill",
+  "version": "1.0.0",
+  "description": "Deterministic regex lexer and tokenizer generator with source line/column tracking and token stream output.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
